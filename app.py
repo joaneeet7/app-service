@@ -1,6 +1,5 @@
 """
-Landing Page Personal - Bob Smith
-Aplicación Flask para presentación personal
+Demo App Service
 """
 
 from flask import Flask, send_file

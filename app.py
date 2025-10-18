@@ -15,4 +15,4 @@ def home():
 @app.route('/health')
 def health():
     """Health check simple"""
-    return {'status': 'ok', 'message': 'Bob Smith - Landing Page'}
+    return {'status': 'ok', 'message': 'Joan Amengual - Landing Page'}
